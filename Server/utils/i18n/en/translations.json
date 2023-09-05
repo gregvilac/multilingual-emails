@@ -1,0 +1,8 @@
+{
+  "testEmail": {
+    "subject": "Multilingual Emails",
+    "preheader": "Open to see inside!",
+    "title": "This is an email in English.",
+    "content": "Let's make this multilingual!"
+  }
+}

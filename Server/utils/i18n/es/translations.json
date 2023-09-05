@@ -1,0 +1,8 @@
+{
+  "testEmail": {
+    "subject": "Correos electrónicos multilingües",
+    "preheader": "Abierta para ver dentro",
+    "title": "Este es un correo electrónico en español.",
+    "content": "¡Hagamos esto multilingüe!"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Multilingual Emails",
+  "placeholder": "Enter your email",
+  "button": "Submit",
+  "email-missing": "Enter your email",
+  "success": "Check your inbox",
+  "fail1": "Something went wrong",
+  "fail2": "Couldn't connect"
+}

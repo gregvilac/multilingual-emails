@@ -1,0 +1,9 @@
+{
+  "title": "Correos electrónicos multilingües",
+  "placeholder": "Introduce tu correo electrónico",
+  "button": "Entregar",
+  "email-missing": "Introduce tu correo electrónico",
+  "success": "Revisa tu correo",
+  "fail1": "algo salió mal",
+  "fail2": "No se pudo conectar"
+}

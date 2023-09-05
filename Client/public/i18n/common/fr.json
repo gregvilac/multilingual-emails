@@ -1,0 +1,9 @@
+{
+  "title": "E-mails multilingues",
+  "placeholder": "Entrer votre Email",
+  "button": "Soumettre",
+  "email-missing": "Entrer votre Email",
+  "success": "Vérifiez votre boîte de réception",
+  "fail1": "quelque chose s'est mal passé",
+  "fail2": "Impossible de se connecter"
+}
